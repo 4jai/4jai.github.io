@@ -5,7 +5,7 @@ categories: [Tutorial]
 tags: [wordpress]
 ---
 
-![Wordpress Logo](./imgs/wordpress.png)
+![Wordpress Logo](https://github.com/4jai/4jai.github.io/blob/main/_posts/imgs/wordpress.png)
 WordPress is a free and open-source content management system written in hypertext preprocessor language and paired with a MySQL or MariaDB database with supported HTTPS. Features include a plugin architecture and a template system, referred to within WordPress as "Themes". - Wikipedia
 
 __What you need ?__
