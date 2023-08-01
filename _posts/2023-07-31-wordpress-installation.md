@@ -5,7 +5,7 @@ categories: [Tutorial]
 tags: [wordpress]
 ---
 
-![Wordpress Logo](imgs/wordpress.png)
+![Wordpress Logo](_posts/imgs/wordpress.png)
 WordPress is a free and open-source content management system written in hypertext preprocessor language and paired with a MySQL or MariaDB database with supported HTTPS. Features include a plugin architecture and a template system, referred to within WordPress as "Themes". - Wikipedia
 
 __What you need ?__
@@ -96,15 +96,15 @@ http://127.0.0.1/wordpress
 
 2. Fill in the database and username that we create earlier
 
-![setup1](imgs/wp_install.PNG)
+![setup1](_posts/imgs/wp_install.PNG)
 
 3. Setup the Wordpress credentials
 
-![setup2](imgs/install.PNG)
+![setup2](_posts/imgs/install.PNG)
 
 4. Now you can login to your Wordpress
 
-![login](imgs/login.PNG)
+![login](_posts/imgs/login.PNG)
 
 ***
 
