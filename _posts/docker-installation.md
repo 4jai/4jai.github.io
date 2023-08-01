@@ -1,6 +1,6 @@
 ---
 title: Docker Installation In Ubuntu
-date: 2023-08-01 12:00:00 +0800
+date: 2023-07-31 12:00:00 +0800
 categories: [docker, linux]
 tags: [linux]
 ---
