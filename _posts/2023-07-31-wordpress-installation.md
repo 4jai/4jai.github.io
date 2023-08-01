@@ -96,15 +96,15 @@ http://127.0.0.1/wordpress
 
 2. Fill in the database and username that we create earlier
 
-![setup1](https://github.com/4jai/4jai.github.io/blob/main/_posts/imgs/wp_install.PNG)
+![setup1](https://raw.githubusercontent.com/4jai/4jai.github.io/main/_posts/imgs/wp_install.PNG)
 
 3. Setup the Wordpress credentials
 
-![setup2](https://github.com/4jai/4jai.github.io/blob/main/_posts/imgs/install.PNG)
+![setup2](https://raw.githubusercontent.com/4jai/4jai.github.io/main/_posts/imgs/install.PNG)
 
 4. Now you can login to your Wordpress
 
-![login](https://github.com/4jai/4jai.github.io/blob/main/_posts/imgs/login.PNG)
+![login](https://raw.githubusercontent.com/4jai/4jai.github.io/main/_posts/imgs/login.PNG)
 
 ***
 
