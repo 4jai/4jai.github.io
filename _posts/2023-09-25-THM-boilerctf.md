@@ -1,6 +1,6 @@
 ---
 title: TryHackMe - BoilerCTF
-date: 2023-07-31 13:30:00 +0800
+date: 2023-09-25 17:00:00 +0800
 categories: [TryHackMe]
 tags: [writeups]
 ---
