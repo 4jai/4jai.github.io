@@ -60,12 +60,13 @@ https://server_domain_or_IP:7080
 ## Changing Default Port
 
 1. Find listeners on the dashboard
+
 ![listeners](https://raw.githubusercontent.com/4jai/4jai.github.io/main/_posts/imgs/openlitespeed/listeners.png)
 
-2. On listener list, click magnifying glass icon at actions section
+3. On listener list, click magnifying glass icon at actions section
 ![magnifier](https://raw.githubusercontent.com/4jai/4jai.github.io/main/_posts/imgs/openlitespeed/magnifier.png)
 
-3. Click edit and change the port number to 80
+4. Click edit and change the port number to 80
 ![edit](https://raw.githubusercontent.com/4jai/4jai.github.io/main/_posts/imgs/openlitespeed/edit.png)
 
 ![port_change](https://raw.githubusercontent.com/4jai/4jai.github.io/main/_posts/imgs/openlitespeed/port_change.png)
