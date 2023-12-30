@@ -8,22 +8,22 @@ tags: [sysadmin]
 ![icon](https://raw.githubusercontent.com/4jai/4jai.github.io/main/_posts/imgs/openlitespeed/openlitespeed.png)
 
 # Update & Upgrade System
-```bash
+```
 sudo apt update && sudo apt upgrade
 ```
 
 # Add repository
-```bash
+```
 sudo wget -O - https://repo.litespeed.sh | sudo bash
 ```
 
 # Update repository
-```shell
+```
 sudo apt update
 ```
 
 # Install OpenLiteSpeed
-```shell
+```
 sudo apt install openlitespeed lsphp81
 ```
 
@@ -33,7 +33,7 @@ sudo /usr/local/lsws/admin/misc/admpass.sh
 ```
 
 # Check services status
-```shell
+```
 sudo systemctl status lsws
 ```
 
@@ -72,7 +72,7 @@ https://server_domain_or_IP:7080
 ![port_change](https://raw.githubusercontent.com/4jai/4jai.github.io/main/_posts/imgs/openlitespeed/port_change.png)
 
 4. Restart the OpenLiteSpeed in server to fully reload
-```shell
+```
 sudo systemctl lsws restart
 ```
 
