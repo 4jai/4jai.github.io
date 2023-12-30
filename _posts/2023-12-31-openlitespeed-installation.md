@@ -1,5 +1,5 @@
 ---
-title: Open Lite Speed Web Server In Ubuntu 22.04
+title: Open Lite Speed Web Server Installation In Ubuntu 22.04
 date: 2023-12-31 03:36:00 +0800
 categories: [Tutorial]
 tags: [sysadmin]
