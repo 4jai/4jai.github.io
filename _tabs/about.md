@@ -8,6 +8,10 @@ Hello, I am Ajai. Cyber security is my passion and interest from high school. Ea
 
 # 🏆 Achievement & Activities 🎯
 
+- APU Battle of Hackers 2023
+- UniKL Game of Hackers
+- WorldSkills Malaysia University Challanges Cybersecurity
+- CURTIN University CTF 2023
 - CyberDSA Code Combat 2023
 - UTAR The Amazing CyberHunt 2023
 - CYDES Cyber Warzone 2023
