@@ -6,7 +6,7 @@ tags: [writeups]
 ---
 
 
-![icon](https://raw.githubusercontent.com/4jai/4jai.github.io/main/_posts/imgs/thm_boilerctf/icon.jpeg)
+![icon](/assets/image/2023-09-25-THM-boilerctf/icon.jpeg)
 
 This is the medium TryHackMe room that really test my enumeration skills. Let's start by connecting the VPN and look at the machine.
 
@@ -14,15 +14,15 @@ This is the medium TryHackMe room that really test my enumeration skills. Let's 
 
 We start our enum like always by using Nmap to scan the open port. At first scan we get 3 common port that are 21 (FTP), 80 (HTTP), and 10000 (HTTP).
 
-![nmapscan](https://raw.githubusercontent.com/4jai/4jai.github.io/main/_posts/imgs/thm_boilerctf/nmapscan.png)
+![nmapscan](/assets/image/2023-09-25-THM-boilerctf/nmapscan.png)
 
 But based on TryHackMe question, there are one more port that available on high port, so to make scanning faster, we will use Rustscan. It seems there are open port on 55007. Let's check the version.
 
 `rustscan 10.10.208.180 -- -p- -Pn`
 
-![rustscan](https://raw.githubusercontent.com/4jai/4jai.github.io/main/_posts/imgs/thm_boilerctf/rustscan.png)
+![rustscan](/assets/image/2023-09-25-THM-boilerctf/rustscan.png)
 
-![portscan](https://raw.githubusercontent.com/4jai/4jai.github.io/main/_posts/imgs/thm_boilerctf/portscan.png)
+![portscan](/assets/image/2023-09-25-THM-boilerctf/portscan.png)
 
 So it was SSH port. Good to know that. Now let's go through all the port and see if there are some info that we can get.
 
