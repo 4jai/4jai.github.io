@@ -1,5 +1,5 @@
 ---
-title: Installing Domain Controller
+title: Active Directory - Installing Domain Controller
 date: 2025-03-02 14:00:00 +0800
 categories:
   - active directory

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "669722ceba91d624",
+        "id": "285ae9c1d3dd12e3",
         "type": "tabs",
         "children": [
           {
-            "id": "c0866c9696cdb7c0",
+            "id": "165a1d00a50a9629",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-03-02-Installing-Domain-Controller.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-03-02-Installing-Domain-Controller"
+              "title": "New tab"
             }
           }
         ]
@@ -168,12 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba26a364041c996b",
+  "active": "165a1d00a50a9629",
   "lastOpenFiles": [
+    "_posts/2025-03-02-Installing-Domain-Controller.md",
     "assets/img/2025-03-02-Installing-Domain-Controller/admin_login.png",
     "_posts/2023-09-25-THM-boilerctf.md",
     "assets/img/2025-03-02-Installing-Domain-Controller/install_dc.png",
-    "_posts/2025-03-02-Installing-Domain-Controller.md",
     "assets/img/2025-03-02-Installing-Domain-Controller/netbios.png",
     "assets/img/2025-03-02-Installing-Domain-Controller/dsrm.png",
     "assets/img/2025-03-02-Installing-Domain-Controller/create_forest.png",
@@ -182,7 +178,6 @@
     "assets/img/2025-03-02-Installing-Domain-Controller/Pasted image 20250302143928.png",
     "Pasted image 20250302143928.png",
     "assets/img/2025-03-02-Installing-Domain-Controller/role_select.png",
-    "assets/img/2025-03-02-Installing-Domain-Controller/Pasted image 20250302143429.png",
     "assets/img/2025-03-02-Installing-Domain-Controller/AD-.md",
     "assets/img/2025-03-02-Installing-Domain-Controller",
     "assets/img/2025-03-02-THM-boilerctf - Copy",
