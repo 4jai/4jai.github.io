@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "285ae9c1d3dd12e3",
+        "id": "eff06866fbfe26cd",
         "type": "tabs",
         "children": [
           {
-            "id": "165a1d00a50a9629",
+            "id": "18ad640f6428dc7f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-03-12-Configure-Login-Banner.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-03-12-Configure-Login-Banner"
             }
           }
         ]
@@ -164,20 +168,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "165a1d00a50a9629",
+  "active": "ba26a364041c996b",
   "lastOpenFiles": [
+    "assets/img/2025-03-12-Configure-Login-Banner/successbanner.png",
+    "assets/img/2025-03-12-Configure-Login-Banner/textedit.png",
+    "assets/img/2025-03-12-Configure-Login-Banner/titleedit.png",
+    "_posts/2025-03-12-Configure-Login-Banner.md",
+    "assets/img/2025-03-12-Configure-Login-Banner/gpbanner.png",
+    "assets/img/2025-03-12-Configure-Login-Banner/gptree.png",
+    "assets/img/2025-03-12-Configure-Login-Banner/gpedit.png",
+    "assets/img/2025-03-12-Configure-Login-Banner/gpname.png",
+    "assets/img/2025-03-12-Configure-Login-Banner/creategp.png",
+    "assets/img/2025-03-12-Configure-Login-Banner/gpmgmt2.png",
+    "assets/img/2025-03-12-Configure-Login-Banner/gpmgmt.png",
     "_posts/2025-03-02-Installing-Domain-Controller.md",
-    "assets/img/2025-03-02-Installing-Domain-Controller/admin_login.png",
+    "assets/img/2025-03-12-Configure-Login-Banner",
     "_posts/2023-09-25-THM-boilerctf.md",
-    "assets/img/2025-03-02-Installing-Domain-Controller/install_dc.png",
-    "assets/img/2025-03-02-Installing-Domain-Controller/netbios.png",
-    "assets/img/2025-03-02-Installing-Domain-Controller/dsrm.png",
-    "assets/img/2025-03-02-Installing-Domain-Controller/create_forest.png",
-    "assets/img/2025-03-02-Installing-Domain-Controller/promote_server.png",
-    "assets/img/2025-03-02-Installing-Domain-Controller/confirm_install.png",
-    "assets/img/2025-03-02-Installing-Domain-Controller/Pasted image 20250302143928.png",
-    "Pasted image 20250302143928.png",
-    "assets/img/2025-03-02-Installing-Domain-Controller/role_select.png",
+    "assets/img/2025-03-02-Installing-Domain-Controller/admin_login.png",
     "assets/img/2025-03-02-Installing-Domain-Controller/AD-.md",
     "assets/img/2025-03-02-Installing-Domain-Controller",
     "assets/img/2025-03-02-THM-boilerctf - Copy",
