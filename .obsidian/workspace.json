@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eff06866fbfe26cd",
+        "id": "2a86ff0c7fb99249",
         "type": "tabs",
         "children": [
           {
-            "id": "18ad640f6428dc7f",
+            "id": "24e10315cd47318b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-03-12-Configure-Login-Banner.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-03-12-Configure-Login-Banner"
+              "title": "New tab"
             }
           }
         ]
