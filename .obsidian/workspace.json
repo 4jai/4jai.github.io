@@ -11,10 +11,14 @@
             "id": "24e10315cd47318b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-04-26-THM-Attacktive-Directory.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-04-26-THM-Attacktive-Directory"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 304.5
   },
   "right": {
     "id": "b5f6ec2145df083d",
@@ -166,21 +170,26 @@
   },
   "active": "ba26a364041c996b",
   "lastOpenFiles": [
-    "assets/img/2025-03-12-Configure-Login-Banner/successbanner.png",
-    "assets/img/2025-03-12-Configure-Login-Banner/textedit.png",
-    "assets/img/2025-03-12-Configure-Login-Banner/titleedit.png",
+    "assets/img/2025-04-26-THM-Attacktive-Directory/completebanner.png",
+    "assets/img/2025-04-26-THM-Attacktive-Directory/backupflag.png",
+    "assets/img/2025-04-26-THM-Attacktive-Directory/svcadminflag.png",
+    "assets/img/2025-04-26-THM-Attacktive-Directory/adminflag.png",
+    "assets/img/2025-04-26-THM-Attacktive-Directory/evilwinrm.png",
+    "assets/img/2025-04-26-THM-Attacktive-Directory/secretsdump.png",
+    "assets/img/2025-04-26-THM-Attacktive-Directory/backupcontent.png",
+    "assets/img/2025-04-26-THM-Attacktive-Directory/smbclientgetfile.png",
+    "assets/img/2025-04-26-THM-Attacktive-Directory/smbclient.png",
+    "assets/img/2025-04-26-THM-Attacktive-Directory/crackkerberos.png",
+    "assets/img/2025-04-26-THM-Attacktive-Directory/hashtype.png",
+    "assets/img/2025-04-20-Setup-Two-Tier-PKI.md",
+    "_posts/2025-04-26-THM-Attacktive-Directory.md",
     "_posts/2025-03-12-Configure-Login-Banner.md",
-    "assets/img/2025-03-12-Configure-Login-Banner/gpbanner.png",
-    "assets/img/2025-03-12-Configure-Login-Banner/gptree.png",
-    "assets/img/2025-03-12-Configure-Login-Banner/gpedit.png",
-    "assets/img/2025-03-12-Configure-Login-Banner/gpname.png",
-    "assets/img/2025-03-12-Configure-Login-Banner/creategp.png",
-    "assets/img/2025-03-12-Configure-Login-Banner/gpmgmt2.png",
-    "assets/img/2025-03-12-Configure-Login-Banner/gpmgmt.png",
+    "_posts/2025-04-20-Setup-Two-Tier-PKI.md",
+    "assets/img/2025-04-26-THM-Attacktive-Directory",
+    "_posts/2023-09-25-THM-boilerctf.md",
+    "assets/img/2025-04-20-Setup-Two-Tier-PKI",
     "_posts/2025-03-02-Installing-Domain-Controller.md",
     "assets/img/2025-03-12-Configure-Login-Banner",
-    "_posts/2023-09-25-THM-boilerctf.md",
-    "assets/img/2025-03-02-Installing-Domain-Controller/admin_login.png",
     "assets/img/2025-03-02-Installing-Domain-Controller/AD-.md",
     "assets/img/2025-03-02-Installing-Domain-Controller",
     "assets/img/2025-03-02-THM-boilerctf - Copy",
