@@ -3,6 +3,7 @@ title: TryHackMe - Attacktive Directory
 date: 2025-04-26 01:00:00 +0800
 categories:
   - Active Directory
+  - TryHackMe
 tags:
   - writeups
 ---

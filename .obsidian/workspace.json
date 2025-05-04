@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-04-28-THM-IDE.md",
+                "file": "_posts/2025-04-28-THM-Team.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-28-THM-IDE"
+              "title": "2025-04-28-THM-Team"
             }
           }
         ]
@@ -170,21 +170,21 @@
   },
   "active": "24e10315cd47318b",
   "lastOpenFiles": [
-    "assets/img/2025-04-28-THM-IDE/idememe.jpg",
-    "assets/img/2025-04-28-THM-IDE/root.png",
+    "assets/img/2025-04-28-THM-Team/root.png",
+    "_posts/2025-04-28-THM-Team.md",
+    "assets/img/2025-04-28-THM-Team/reverseshell.png",
+    "assets/img/2025-04-28-THM-Team/scriptcompare.png",
+    "assets/img/2025-04-28-THM-Team/script.png",
+    "assets/img/2025-04-28-THM-Team/opt.png",
+    "assets/img/2025-04-28-THM-Team/gylesgroups.png",
+    "assets/img/2025-04-28-THM-Team/gylesshell.png",
+    "assets/img/2025-04-28-THM-Team/idcheck.png",
+    "assets/img/2025-04-28-THM-Team/admin_checks.png",
+    "assets/img/2025-04-28-THM-Team",
     "_posts/2025-04-28-THM-IDE.md",
-    "assets/img/2025-04-28-THM-IDE/root.png",
-    "assets/img/2025-04-28-THM-IDE/svcfileedit.png",
-    "assets/img/2025-04-28-THM-IDE/svcfile.png",
-    "assets/img/2025-04-28-THM-IDE/findvsftpd.png",
-    "assets/img/2025-04-28-THM-IDE/sudocheck.png",
-    "assets/img/2025-04-28-THM-IDE/usertxt.png",
-    "assets/img/2025-04-28-THM-IDE/dracssh.png",
-    "assets/img/2025-04-28-THM-IDE/dracpass.png",
-    "assets/img/2025-04-28-THM-IDE/drachome.png",
+    "_posts/2025-04-26-THM-Attacktive-Directory.md",
     "assets/img/2025-04-28-THM-IDE.md",
     "assets/img/2025-04-28-THM-IDE",
-    "_posts/2025-04-26-THM-Attacktive-Directory.md",
     "_posts/2023-09-25-THM-boilerctf.md",
     "assets/img/2025-04-20-Setup-Two-Tier-PKI.md",
     "_posts/2025-03-12-Configure-Login-Banner.md",
