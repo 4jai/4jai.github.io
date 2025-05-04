@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-04-26-THM-Attacktive-Directory.md",
+                "file": "_posts/2025-04-28-THM-IDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-26-THM-Attacktive-Directory"
+              "title": "2025-04-28-THM-IDE"
             }
           }
         ]
@@ -168,25 +168,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba26a364041c996b",
+  "active": "24e10315cd47318b",
   "lastOpenFiles": [
-    "assets/img/2025-04-26-THM-Attacktive-Directory/completebanner.png",
-    "assets/img/2025-04-26-THM-Attacktive-Directory/backupflag.png",
-    "assets/img/2025-04-26-THM-Attacktive-Directory/svcadminflag.png",
-    "assets/img/2025-04-26-THM-Attacktive-Directory/adminflag.png",
-    "assets/img/2025-04-26-THM-Attacktive-Directory/evilwinrm.png",
-    "assets/img/2025-04-26-THM-Attacktive-Directory/secretsdump.png",
-    "assets/img/2025-04-26-THM-Attacktive-Directory/backupcontent.png",
-    "assets/img/2025-04-26-THM-Attacktive-Directory/smbclientgetfile.png",
-    "assets/img/2025-04-26-THM-Attacktive-Directory/smbclient.png",
-    "assets/img/2025-04-26-THM-Attacktive-Directory/crackkerberos.png",
-    "assets/img/2025-04-26-THM-Attacktive-Directory/hashtype.png",
-    "assets/img/2025-04-20-Setup-Two-Tier-PKI.md",
+    "assets/img/2025-04-28-THM-IDE/idememe.jpg",
+    "assets/img/2025-04-28-THM-IDE/root.png",
+    "_posts/2025-04-28-THM-IDE.md",
+    "assets/img/2025-04-28-THM-IDE/root.png",
+    "assets/img/2025-04-28-THM-IDE/svcfileedit.png",
+    "assets/img/2025-04-28-THM-IDE/svcfile.png",
+    "assets/img/2025-04-28-THM-IDE/findvsftpd.png",
+    "assets/img/2025-04-28-THM-IDE/sudocheck.png",
+    "assets/img/2025-04-28-THM-IDE/usertxt.png",
+    "assets/img/2025-04-28-THM-IDE/dracssh.png",
+    "assets/img/2025-04-28-THM-IDE/dracpass.png",
+    "assets/img/2025-04-28-THM-IDE/drachome.png",
+    "assets/img/2025-04-28-THM-IDE.md",
+    "assets/img/2025-04-28-THM-IDE",
     "_posts/2025-04-26-THM-Attacktive-Directory.md",
+    "_posts/2023-09-25-THM-boilerctf.md",
+    "assets/img/2025-04-20-Setup-Two-Tier-PKI.md",
     "_posts/2025-03-12-Configure-Login-Banner.md",
     "_posts/2025-04-20-Setup-Two-Tier-PKI.md",
     "assets/img/2025-04-26-THM-Attacktive-Directory",
-    "_posts/2023-09-25-THM-boilerctf.md",
     "assets/img/2025-04-20-Setup-Two-Tier-PKI",
     "_posts/2025-03-02-Installing-Domain-Controller.md",
     "assets/img/2025-03-12-Configure-Login-Banner",
