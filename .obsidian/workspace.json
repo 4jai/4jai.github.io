@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-06-03-HTB-ServMon.md",
+                "file": "_posts/2025-06-19-BloodHound-Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-03-HTB-ServMon"
+              "title": "2025-06-19-BloodHound-Setup"
             }
           }
         ]
@@ -168,20 +168,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24e10315cd47318b",
+  "active": "ba26a364041c996b",
   "lastOpenFiles": [
-    "assets/img/2025-06-03-HTB-ServMon/root.png",
-    "assets/img/2025-06-03-HTB-ServMon/q11.png",
-    "assets/img/2025-06-03-HTB-ServMon/admin.png",
-    "assets/img/2025-06-03-HTB-ServMon/version.png",
-    "assets/img/2025-06-03-HTB-ServMon/q10.png",
-    "assets/img/2025-06-03-HTB-ServMon/deliver.png",
-    "assets/img/2025-06-03-HTB-ServMon/pyhttp.png",
-    "assets/img/2025-06-03-HTB-ServMon/listener.png",
-    "assets/img/2025-06-03-HTB-ServMon/msfvenom.png",
-    "assets/img/2025-06-03-HTB-ServMon/listener.png",
+    "assets/img/2025-06-19-BloodHound-Setup/neo4jdb.png",
+    "assets/img/2025-06-19-BloodHound-Setup/bloodhoundmap.png",
+    "assets/img/2025-06-19-BloodHound-Setup/uploading.png",
+    "assets/img/2025-06-19-BloodHound-Setup/uploadbutton.png",
+    "assets/img/2025-06-19-BloodHound-Setup/unzipdata.png",
+    "assets/img/2025-06-19-BloodHound-Setup/downloadzip.png",
+    "assets/img/2025-06-19-BloodHound-Setup/collect.png",
+    "assets/img/2025-06-19-BloodHound-Setup/uploadsharphound.png",
+    "assets/img/2025-06-19-BloodHound-Setup/sharphound.png",
+    "assets/img/2025-06-19-BloodHound-Setup/interface.png",
+    "assets/img/2025-06-19-BloodHound-Setup/login.png",
     "_posts/2025-06-03-HTB-ServMon.md",
-    "assets/img/2025-06-03-HTB-ServMon/meme.png",
+    "_posts/2025-06-19-BloodHound-Setup.md",
+    "assets/img/2025-06-19-BloodHound-Setup",
     "_posts/2025-04-28-THM-IDE.md",
     "assets/img/2025-06-03-HTB-ServMon",
     "_posts/2025-04-26-THM-Attacktive-Directory.md",
