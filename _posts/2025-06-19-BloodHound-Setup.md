@@ -1,6 +1,6 @@
 ---
 title: BloodHound Setup
-date: 2025-06-1903 01:00:00 +0800
+date: 2025-06-19 01:00:00 +0800
 categories:
   - Active Directory
 tags:
