@@ -58,7 +58,7 @@ cd BloodHound-linux-x64
 Now, we can run BloodHound
 
 ```
-./BloodHound -no-sandbox
+./BloodHound --no-sandbox
 ```
 
 ![](assets/img/2025-06-19-BloodHound-Setup/login.png)
